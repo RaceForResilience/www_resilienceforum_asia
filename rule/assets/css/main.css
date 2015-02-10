@@ -1,0 +1,47 @@
+
+.row .blank {
+	height: 100px;	
+}
+
+.row .row {
+	margin-bottom: 80px;
+}
+
+.row .sidebar {
+}
+
+.logo {
+	margin-top: 30px;
+	margin-right: 20px;
+	float: left;
+}
+
+h1 {
+	margin-top: 58px;
+	font-size:167%;
+	font-weight: bold;
+} 
+
+h2 {
+	font-size:138.5%;
+	border-bottom: 1px dotted #777;
+	margin-bottom: 20px;
+} 
+
+h3 {
+	font-size:108%;
+	font-weight: bold;
+} /*renders 14px */
+
+li {font-size:77%;} /*renders 10px */
+
+.thumbnail {
+	margin-bottom: 10px;
+	height: 300px;
+	padding: 10px;
+	border: 1px solid #f3f3f3;
+}
+
+p {
+	font-size:100%; /*renders 10px */
+} 
