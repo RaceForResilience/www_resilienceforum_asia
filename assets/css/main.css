@@ -585,4 +585,45 @@ a.inline:hover {
 	font-size: 10px;
 	color: #AAA;
 }
-
+dl,dt,dd{
+	margin: 0;
+	padding: 0;
+}
+.schedule-left{
+	display: block;
+	margin: 5px;
+	float: left;
+}
+.schedule-left dt, .schedule-left dd{
+	padding: 5px 4px 5px 4px;
+}
+.schedule-left dd{
+		border-bottom: 1px dotted #333333;
+		border-color:#36a1ea;
+}
+.schedule-left dt {
+	width: 80px;
+	clear: left;
+	float: left;
+}
+.color-wb{
+	color:#36a1ea;
+}
+.color-gr{
+	color:#6eb92c;
+}
+.cooperation{
+	display:block;
+	width:78%;
+	margin:0 auto;
+}
+.coope-text{
+	color:#36a1ea;
+	font-size:small;
+	display:block;
+	float:left;
+}
+.coop-logo{
+	float:left;
+	margin-left: 20px;
+}
