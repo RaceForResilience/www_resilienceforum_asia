@@ -614,16 +614,14 @@ dl,dt,dd{
 }
 .cooperation{
 	display:block;
-	width:82%;
+	width:76%;
 	margin:0 auto;
 }
 .coope-text{
 	color:#36a1ea;
 	font-size:small;
 	display:block;
-	float:left;
 }
-.coop-logo{
+.coop-logo img{
 	float:left;
-	margin-left: 20px;
 }
