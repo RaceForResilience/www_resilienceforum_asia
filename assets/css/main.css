@@ -617,11 +617,27 @@ dl,dt,dd{
 	width:68%;
 	margin:0 auto;
 }
+.cooperation-en{
+	display:block;
+	width:90%;
+	margin:0 auto;
+}
+
 .coope-text{
 	color:#36a1ea;
 	font-size:small;
 	display:block;
 }
+.coope-text-br{
+	color:#000;
+	font-size:small;
+	display:block;
+}
+
 .coop-logo img{
 	float:left;
+}
+.en-txt{
+	text-align:justify;
+	display:block;
 }
